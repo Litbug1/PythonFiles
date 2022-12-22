@@ -3,4 +3,3 @@ print(msg)
 
 print("Oh dear god")
 
-print("Hello")
